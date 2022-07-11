@@ -188,3 +188,20 @@ span
     color: rgb(13, 13, 13);
     font-weight: bolder;
 }
+footer{
+    padding: 10px;
+    padding-left: 30vh;
+    font-size: x-large;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+footer ul li{
+    padding-right: 120px;
+}
